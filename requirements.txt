@@ -3,7 +3,7 @@ cffi==1.12.3
 cryptography==2.7
 enum34==1.1.6
 ipaddress==1.0.22
-paramiko==2.1.6
+paramiko==2.10.1
 pyasn1==0.4.7
 pycparser==2.19
 PySocks==1.5.7

@@ -1,6 +1,6 @@
-Библиотека для управления удаленным сервером
-Для доступа используются данные ssh
+Library for managing a remote server
+ssh credentials are used for access
 
-Возможности:
-Получать и отправлять файлы;
-Выполнять команды и получать результат этих команд.
+Possibilities:
+Receive and send files;
+Execute commands and get the result of these commands.

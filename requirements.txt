@@ -6,5 +6,5 @@ ipaddress==1.0.22
 paramiko==2.10.1
 pyasn1==0.4.7
 pycparser==2.19
-PySocks==1.5.7
+PySocks==1.7.1
 six==1.12.0
